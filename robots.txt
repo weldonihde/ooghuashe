@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojeiquaec.e-bileterka.pl/sitemap.xml
